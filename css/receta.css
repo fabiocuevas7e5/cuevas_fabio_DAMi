@@ -1,0 +1,22 @@
+header{
+    width: 1200px;
+text-align: justify;
+font-family: cursive;
+}
+
+h1{
+    color: rgb(247, 75, 75)
+}
+article p{
+    color: black;
+    font-family: cursive;
+    text-align: justify;
+}
+article ul{
+    color:green
+}
+aside img{
+    display: inline-block;
+    width: 700px; 
+    height: 350px;
+}
